@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+* I have (re)learned some HTML and have created a blog page following a mockup. 
+I have become better at researching and gotten to know a useful site called: https://developer.mozilla.org/en-US/docs/Web/HTML/Element. 
+I used Sublime up until now, and have learned that I miss a function that auto-formats code. Hence my code looked very messy wich I don't like. It takes too much time to organise it perfectly manually. 
+I have gotten tips of other text editors like: Atom, Emacs, Vim and Notepad++. Will try Atom next. 
+I have also felt I need to learn CSS again. I miss the styling which gave me problems, or rather, would have given me a solution to an underlining problem I had in this last assignment. 
+
+* Everything has been a bit easy up until now, except for the underlining problem which I haven't yet solved. 
+
+* The underlining problem which I haven't yet solved.
+I am though overwhelmed by Slack. There is so many notifications there that I don't even want to start reading. 
+
+* I have tried the website but I haven't found my solution yet. I would have appreciated more help tools.
+Besides what was provided for me, I have searched the web and not yet asked my peers for advice. Plan on doing that.  
